@@ -1,1 +1,2 @@
-# The Project of ECCV24 Paper "Aerial Object Detection vis Point-Axis Representation "(Released before October 2024)
+# The Project of ECCV24 Paper "Oriented Object Detection vis Point-Axis Representation "
+# (Released before October 2024)
