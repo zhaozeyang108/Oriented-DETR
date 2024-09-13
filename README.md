@@ -4,4 +4,4 @@ By [Zeyang Zhao](https://scholar.google.com.hk/citations?user=jlDQUOkAAAAJ&hl=zh
 
 This repository is an official implementation of the paper [Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation](https://arxiv.org/pdf/2407.08489).
 
-We expect to organize and release the code between October and November.
+We expect to organize and release the code between October and November, 2024.
