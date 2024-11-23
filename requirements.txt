@@ -1,0 +1,11 @@
+pycocotools
+panopticapi
+opencv-python
+cython
+submitit
+torchvision>=0.6.0
+scipy
+termcolor
+addict
+yapf
+timm==0.40.1

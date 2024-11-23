@@ -1,0 +1,4 @@
+# ninja log v5
+1	6035	1732158890048775717	/data2/qilong/oriented-detr/models/dino/ops/build/temp.linux-x86_64-3.8/data2/qilong/oriented-detr/models/dino/ops/src/cpu/ms_deform_attn_cpu.o	4a4fcf59778061e1
+1	16619	1732158900624613999	/data2/qilong/oriented-detr/models/dino/ops/build/temp.linux-x86_64-3.8/data2/qilong/oriented-detr/models/dino/ops/src/cuda/ms_deform_attn_cuda.o	689b67c40a796560
+1	19780	1732158903780565917	/data2/qilong/oriented-detr/models/dino/ops/build/temp.linux-x86_64-3.8/data2/qilong/oriented-detr/models/dino/ops/src/vision.o	7a5eca0782385cc5
