@@ -181,8 +181,9 @@ The pretrained model can be download from the [Google Drive](https://drive.googl
 
 ## Installation
 
-<details>
-  
+
+<details> 
+<summary>Details</summary>
 
 1. Install pytorch and torchvision
 
