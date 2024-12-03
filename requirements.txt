@@ -7,5 +7,5 @@ torchvision>=0.6.0
 scipy
 termcolor
 addict
-yapf
-timm==0.40.1
+yapf==0.40.1
+timm
