@@ -1,5 +1,4 @@
 pycocotools
-panopticapi
 opencv-python
 cython
 submitit
